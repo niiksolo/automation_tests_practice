@@ -1,0 +1,8 @@
+.idea
+.venv
+.External Libraries
+.__pycache__
+.allureres
+.pytest_cache
+venv
+__pycache__/
